@@ -1,5 +1,5 @@
 ## Language Selection
-🇧🇷 Português | 🇬🇧 English
+[🇧🇷 Português](https://github.com/delsschoolaccount/teste-pages/blob/main/README.md#português) | [🇬🇧 English](https://github.com/delsschoolaccount/teste-pages/blob/main/README.md#english)
 
 ## Português
 ### Geral
