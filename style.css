@@ -1,13 +1,15 @@
 body {
-    background: #308fc7;
-/*    background-image: url(https://www-cdn.eumetsat.int/files/styles/16_9_large/s3/2022-07/cirrus_clouds_aspot_AdobeStock.jpg?h=d1cb525d&itok=EzXtlBkL) */
+    background-color: #6198bd;
+    color: #fff;
 }
 
 header {
+    background-color: #73b4df;
     display: flex;
     justify-content: center;
     width: 100%;
     height: fit-content;
+    margin-bottom: 20px;
 }
 
 a {
@@ -21,8 +23,14 @@ a:hover{
 }
 
 
-.container {
-    display: block;
-    color: #fff;
+.container-fluid {
+    color: #ffffff;
+    display: inline-flex;
+    justify-content: space-evenly;
     margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-body{
+    background-color: #73b4df;
 }
