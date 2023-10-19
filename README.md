@@ -16,6 +16,9 @@ Conforme dito antes, este site é básico, para alterar de uma página para outr
 Para alterar de slides, clique nas setas ou nos indicadores para ir para um slide específico.
 Os botões nos cards que falam "Comprar" ou "Adicionar ao Carrinho" NÃO funcionam.
 
+### Acesso ao site
+O site pode ser acessado usando [esse link](https://delsschoolaccount.github.io/teste-pages/index.html)
+
 #### Obrigado por ler!
 
 ## English
@@ -32,5 +35,8 @@ Now the **About** page has a bit about *why* the site was made, *when* the site 
 As was mentioned before, this site is basic, to switch from one page to the other, simply click on the Hub text (located above the content) and select the page you want to enter.
 To swap slides, click on the arrows or the indicators to go from one slide to the other, or select a specific slide.
 The buttons on the cards that say "Buy (Comprar)" ou "Add to cart (Adicionar ao Carrinho)" do NOT work. 
+
+### Site access
+The site can be accessed using [this link](https://delsschoolaccount.github.io/teste-pages/index.html)
 
 #### Thank you for reading!
